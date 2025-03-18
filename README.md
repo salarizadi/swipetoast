@@ -29,8 +29,8 @@ Check out the [live demo on CodePen](https://codepen.io/salariz/pen/NPWYPxN)
 ### Using CDN
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/salarizadi/swipetoast@main/jquery.swipetoast.css">
-<script src="https://cdn.jsdelivr.net/gh/salarizadi/swipetoast@main/jquery.swipetoast.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/salarizadi/swipetoast/jquery.swipetoast.min.css">
+<script src="https://cdn.jsdelivr.net/gh/salarizadi/swipetoast/jquery.swipetoast.min.js"></script>
 ```
 
 ### Basic Usage
