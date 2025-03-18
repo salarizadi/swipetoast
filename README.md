@@ -2,6 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/salarizadi/swipetoast)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/salarizadi/swipetoast/blob/main/LICENSE)
+[![jsDelivr](https://data.jsdelivr.com/v1/package/gh/salarizadi/swipetoast/badge)](https://www.jsdelivr.com/package/gh/salarizadi/swipetoast)
 [![jQuery](https://img.shields.io/badge/jquery-%3E%3D%203.0.0-yellow.svg)](https://jquery.com/)
 [![CodePen demo](https://img.shields.io/badge/CodePen-demo-blue.svg)](https://codepen.io/salariz/pen/NPWYPxN)
 
